@@ -12,7 +12,7 @@ env:
   ECS_SERVICE: hello-flask
   ECS_CLUSTER: default
   ECS_TASK_DEFINITION: .aws/task.json
-  CONTAINER_NAME: hello-flask
+  CONTAINER_NAME: hello-world
 
 jobs:
   deploy:
