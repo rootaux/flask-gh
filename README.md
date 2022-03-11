@@ -1,3 +1,3 @@
-# Flask app with automatic deployment to aws using Github actions
+# Flask app with automatic deployment to aws using GitHub actions
 
-This repository contains the code for a basic flask app which prints the message from an environment variable. The repository also contains a CI/CD pipeline using Github actions that deploys a container to Amazon ECR and then deploys it on Amazon ECS using Amazon Fargate. The repository also uses super-linter by Github which ensures the code quality.
+This repository contains the code for a basic flask app which prints the message from an environment variable. The repository also contains a CI/CD pipeline using GitHub actions that deploys a container to Amazon ECR and then deploys it on Amazon ECS using Amazon Fargate. The repository also uses super-linter by GitHub which ensures the code quality.
